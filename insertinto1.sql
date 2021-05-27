@@ -16,7 +16,7 @@ Issue, City, PostalCode and Country columns */
 
 /* Insert a new record in the "CustomerComplaint" table: */
 INSERT INTO CustomerComplaint(customerid, customername, productname, issue, address, city, postalcode, country) 
-VALUES (“6","Ujjwal","R","Writing","Indra Nagar", "Lucknow", "226010", "India")
+VALUES (“6","Ujjwal","R","Writing","Indra Nagar", "Lucknow", 226010", "India")
 /* The CustomerID column is an auto-increment field and will be generated automatically when a new record is 
 inserted into the table */
 
