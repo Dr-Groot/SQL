@@ -14,13 +14,13 @@ Issue, City, PostalCode and Country columns */
 
 /* SQL statement updates the first customer (CustomerID = 1) with a new contact person and a new city.*/
 UPDATE CustomerComplaint
-SET CustomerName = 'CHANGE1', City= ‘CHANGE2'
+SET CustomerName = 'CHANGE1, City= ‘CHANGE2'
 WHERE CustomerID = 1;
 
 /* UPDATING MULTIPLE RECORD: update the CustomerName to "JAMES" for all records where country is "India": */
 UPDATE CustomerComplaint
 SET ContactName='JAMES'
-WHERE Country=‘India';
+WHERE Country=‘India;
 
 /* UPDATING WITHOUT WHERE will omit all the record to be changed */
 UPDATE CustomerComplaint
