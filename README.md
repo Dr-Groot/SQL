@@ -2,8 +2,9 @@
 # All About SQL
 
 ## SQL TOPICS
-+ [Introduction](intro.txt)
++ [SQL Introduction](intro.txt)
 + [SQL Syntax](syntax.sql)
++ [SQL Select](select.sql)
 ## Practice Dataset
 + [HR Employee Dataset](hremployee.csv)
 + [Customer Complaint Mini Dataset](CustomerComplaint.csv)
