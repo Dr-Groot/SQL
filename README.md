@@ -12,7 +12,7 @@
 + [SQL Insert Into](insertinto1.sql)
 + [SQL Null](null.sql)
 + [SQL Update](update.sql)
-+ [SQL Delete](delete.py)
++ [SQL Delete](delete.sql)
 ## Practice Dataset
 + [HR Employee Dataset](hremployee.csv)
 + [Customer Complaint Mini Dataset](CustomerComplaint.csv)
