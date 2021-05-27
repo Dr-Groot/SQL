@@ -6,6 +6,7 @@
 + [SQL Syntax](syntax.sql)
 + [SQL Select](select.sql)
 + [SQL Select Distinct](selectdistinct.sql)
++ [SQL Where](where.sql)
 ## Practice Dataset
 + [HR Employee Dataset](hremployee.csv)
 + [Customer Complaint Mini Dataset](CustomerComplaint.csv)
