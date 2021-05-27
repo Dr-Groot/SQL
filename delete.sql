@@ -1,0 +1,1 @@
+/* The DELETE statement is used to delete existing records in a table. */
