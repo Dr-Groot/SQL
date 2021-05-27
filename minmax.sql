@@ -10,3 +10,8 @@ WHERE condition;
 SELECT MAX(column_name)
 FROM table_name
 WHERE condition;
+
+/* ------------EXAMPLE-------------*/
+/* If there is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
+Issue, City, PostalCode and Country columns */
+
