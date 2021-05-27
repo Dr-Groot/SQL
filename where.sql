@@ -19,13 +19,40 @@ WHERE Country='India';
 SELECT * FROM Customers
 WHERE CustomerID=12;
 
-/* Operations in SQL using WHERE Clause */
-=	        /* Equal */	
->	        /*Greater than*/	
-<	        /*Less than*/	
->=	      /*Greater than or equal*/	
-<=	      /*Less than or equal*/	
-<>	      /*Not equal. Note: In some versions of SQL this operator may be written as != */
-BETWEEN	  /*Between a certain range*/	
-LIKE	    /*Search for a pattern*/	
-IN	      /*To specify multiple possible values for a column*/
+
+/* ----------- Operations in SQL using WHERE Clause ------------- */
+        =	        
+/* Equal Example */
+SELECT * FROM CustomerComplaint 
+WHERE PostalCode = 226001;
+
+
+          >	        
+/* Greater than Example */
+SELECT * FROM CustomerComplaint
+WHERE  CustomerId > 3;
+
+
+                          <	  >=	 <=	  <>	     
+/* Less than ||  Greater than or equal || Less than Less than or equal || Not equal. Note: In some versions of SQL this operator may be written as != */
+SELECT * FROM CustomerComplaint
+WHERE  CustomerId <= 2;
+
+
+          BETWEEN	  
+/* Between a certain range Example */
+SELECT * FROM CustomerComplaint
+WHERE CustomerID BETWEEN 2 AND 5;
+
+
+              LIKE	    
+/*Search for a pattern Example */
+SELECT * FROM CustomerComplaint 
+WHERE ProductName LIKE ‘%P’;
+
+
+IN	      
+/*To specify multiple possible values for a column Example */
+SELECT * FROM CustomerComplaint
+WHERE City IN (“Lucknow”, “Berlin”);
+/* Arguement value of IN are Case Sensitive */
