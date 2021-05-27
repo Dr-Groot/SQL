@@ -10,6 +10,7 @@
 + [SQL And, Or and Not](andornot.sql)
 + [SQL Order By](orderby.sql)
 + [SQL Insert Into](insertinto1.sql)
++ [SQL Null](null.sql)
 ## Practice Dataset
 + [HR Employee Dataset](hremployee.csv)
 + [Customer Complaint Mini Dataset](CustomerComplaint.csv)
