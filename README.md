@@ -7,6 +7,7 @@
 + [SQL Select](select.sql)
 + [SQL Select Distinct](selectdistinct.sql)
 + [SQL Where](where.sql)
++ [SQL AND, OR and NOT](andornot.sql)
 ## Practice Dataset
 + [HR Employee Dataset](hremployee.csv)
 + [Customer Complaint Mini Dataset](CustomerComplaint.csv)
