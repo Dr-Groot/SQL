@@ -3,6 +3,7 @@
 
 ## SQL TOPICS
 + [Introduction](intro.txt)
++ [SQL Syntax](syntax.sql)
 ## Practice Dataset
 + [HR Employee Dataset](hremployee.csv)
 + [Customer Complaint Mini Dataset](CustomerComplaint.csv)
