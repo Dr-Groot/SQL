@@ -4,3 +4,5 @@
 ## SQL TOPICS
 
 ## Practice Dataset
++ [HR Employee Dataset](hremployee.csv)
++ [Customer Complaint Mini Dataset](CustomerComplaint.csv)
