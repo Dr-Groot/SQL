@@ -1,5 +1,5 @@
 # Hi 👋, I'm Aman Pratap Singh (Dr.Groot)
-#              SQL
+# All About SQL
 
 ## SQL TOPICS
 + [Introduction](intro.txt)
