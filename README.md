@@ -11,6 +11,7 @@
 + [SQL Order By](orderby.sql)
 + [SQL Insert Into](insertinto1.sql)
 + [SQL Null](null.sql)
++ [SQL Update](update.sql)
 ## Practice Dataset
 + [HR Employee Dataset](hremployee.csv)
 + [Customer Complaint Mini Dataset](CustomerComplaint.csv)
