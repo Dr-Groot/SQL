@@ -14,6 +14,7 @@
 + [SQL Update](update.sql)
 + [SQL Delete](delete.sql)
 + [SQL Top, Limit, Fetch First or Rownum Clause](limit.sql)
++ [SQL Min Max](minmax.sql)
 ## Practice Dataset
 + [HR Employee Dataset](hremployee.csv)
 + [Customer Complaint Mini Dataset](CustomerComplaint.csv)
