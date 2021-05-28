@@ -16,4 +16,4 @@
 + [Hr Employee](hremployee.csv)
 
 ---
-> LETS CONTRIBUTE AND MAKE IT BETTER [NOW](www.github.com/dr-groot). [Contact us](amanpratapsingh909090@gmail.com).
+> LETS CONTRIBUTE AND MAKE IT BETTER [NOW](www.github.com/dr-groot). || Mail: amanpratapsingh909090@gmail.com
