@@ -7,10 +7,9 @@ WHERE condition;
 
 /* While using UPDATE be carefull as it can update all the record in the table so we use WHERE Clause */
 
-
 /* ------------EXAMPLE-------------*/
-/* If there is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
-Issue, City, PostalCode and Country columns */
+/* There is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
+Issue, City, PostalCode and Country as columns */
 
 /* SQL statement updates the first customer (CustomerID = 1) with a new contact person and a new city.*/
 UPDATE CustomerComplaint
