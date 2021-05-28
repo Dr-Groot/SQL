@@ -8,8 +8,8 @@ WHERE condition;
 /* WHERE is used with SELECT, UPDATE, DELETE, etc. */
 
 /* ------------EXAMPLE-------------*/
-/* If there is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
-Issue, City, PostalCode and Country columns which are having data */
+/* There is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
+Issue, City, PostalCode and Country as columns */
 
 /* If we want to select all customers from India */
 SELECT * FROM Customers
