@@ -10,8 +10,8 @@ ORDER BY column1, column2, ... ASC|DESC;
 
 
 /* ------------EXAMPLE-------------*/
-/* If there is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
-Issue, City, PostalCode and Country columns which are having data */
+/* There is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
+Issue, City, PostalCode and Country as columns */
 
 /* Selects all customers from the "CustomerComplaint" table, sorted by the "Country" column: */
 SELECT * FROM CustomerComplaint
