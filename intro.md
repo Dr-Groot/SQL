@@ -1,3 +1,4 @@
+[< BACK](./README.md)
 # SQL INTRODUCTION
 
 ![image](https://user-images.githubusercontent.com/63160825/119976059-35b5a200-bfd4-11eb-8512-daed4e85fdf7.png)
@@ -38,10 +39,13 @@ To build a web site that shows data from a database, you will need:
 
 RDBMS stands for **Relational Database Management System**.
 
+![image](https://user-images.githubusercontent.com/63160825/119978793-b033f100-bfd7-11eb-99ac-1e1beebeca25.png)
+
+
 An RDBMS is a DBMS designed specifically for relational databases or SQL database. An RDBMS may also provide a visual representation of the data. For example, it may display data in a tables like a spreadsheet, allowing you to view and even edit individual values in the table. RDBMS is the basis for SQL, and for all modern database systems such as MS SQL Server, IBM DB2, Oracle, MySQL, and Microsoft Access.
                                                                                      
 SQL is used in the **accessing**, **updating**, and **manipulation** of data in a database while MySQL is an RDBMS that allows keeping the data that exists in a database organised. SQL is a Structured Query Language and MySQL is a RDBMS to store, retrieve, modify and administrate a database. The data in RDBMS is stored in database objects called **Tables**. A table is a collection of related data entries and it consists of columns and rows.It is basically a relationships between data items are expressed by means of tables.
 
 Every table is broken up into smaller entities called **Fields**. The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column(vertical) in a table that is designed to maintain specific information about every record in the table. A record, also called a row(horizontal), is each individual entry that exists in a table.
 
-[BACK](./README.md)
+[< BACK](./README.md)
