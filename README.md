@@ -1,6 +1,5 @@
-# Hi 👋, I'm Aman Pratap Singh (Dr.Groot)
-# All About SQL
-Here is some important [TOPICS](a.md) 
+# SQL by Dr.Groot(Aman Pratap Singh)
+---
 ## SQL TOPICS
 + [SQL Introduction](intro.txt)
 + [SQL Syntax](syntax.sql)
