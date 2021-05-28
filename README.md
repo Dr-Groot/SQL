@@ -12,5 +12,8 @@
 
 
 ## Practice Dataset
+
+![image](https://user-images.githubusercontent.com/63160825/119978089-d7d68980-bfd6-11eb-84e0-735a9b2962ab.png)
+
 + [Customer Complaint](CustomerComplaint.csv)
 + [Hr Employee](hremployee.csv)
