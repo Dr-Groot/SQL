@@ -20,9 +20,9 @@ FROM table_name
 WHERE NOT condition;
 
 
-/* ------------EXAMPLE-------------
-If there is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
-Issue, City, PostalCode and Country columns */
+/* ------------EXAMPLE-------------*/
+/* There is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
+Issue, City, PostalCode and Country as columns */
 
 /* AND EXAMPLE 
 Selects all fields from "CustomerComplaint" where country is "Germany" AND city is “Berlin”:*/
@@ -37,12 +37,12 @@ WHERE City='Delhi' OR City='Lucknow';
 /* NOT EXAMPLE 
 Selects all fields from "CustomerComplaint" where country is NOT “India": */
 SELECT * FROM CustomerComplaint
-WHERE NOT Country=‘India';
+WHERE NOT Country=‘India;
 
 /* AND, OR and NOT TOGETHER 
 Selects all fields from “CustomerComplaint" where country is "India" AND city must be "Lucknow" OR "Delhi" */
 SELECT * FROM CustomerComplaint 
-WHERE Country='India' AND (City='Lucknow' OR City=‘Delhi');
+WHERE Country='India' AND (City='Lucknow' OR City=‘Delhi);
 
 /*  Selects all fields from "Customers" where country is NOT "Germany" and NOT “USA": */
 SELECT * FROM CustomerComplaint
