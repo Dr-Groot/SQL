@@ -24,8 +24,8 @@ ORDER BY column_name(s)
 FETCH FIRST number ROWS ONLY;
 
 /* ------------EXAMPLE-------------*/
-/* If there is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
-Issue, City, PostalCode and Country columns */
+/* There is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
+Issue, City, PostalCode and Country as columns */
 
 /* SQL TOP, LIMIT, and FETCH FIRST example: */
 /* SQL statement selects the first three records from the "CustomerComplaint" table */
@@ -42,8 +42,8 @@ SELECT * FROM CustomerComplaint
 FETCH FIRST 3 ROWS ONLY;
 
 /* ------------EXAMPLE USING WHERE CLAUSE-------------*/
-/* If there is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
-Issue, City, PostalCode and Country columns */
+/* There is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
+Issue, City, PostalCode and Country as columns */
 
 /* SQL statement selects the first three records from the "CustomerComplaint" table, where the country is "Germany" */
 
