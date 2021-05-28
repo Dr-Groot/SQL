@@ -1,19 +1,12 @@
 # SQL by Dr.Groot(Aman Pratap Singh)
 ---
-## SQL TOPICS
-+ [SQL Introduction](intro.txt)
-+ [SQL Syntax](syntax.sql)
-+ [SQL Select](select.sql)
-+ [SQL Select Distinct](selectdistinct.sql)
-+ [SQL Where](where.sql)
-+ [SQL And, Or and Not](andornot.sql)
-+ [SQL Order By](orderby.sql)
-+ [SQL Insert Into](insertinto1.sql)
-+ [SQL Null](null.sql)
-+ [SQL Update](update.sql)
-+ [SQL Delete](delete.sql)
-+ [SQL Top, Limit, Fetch First or Rownum Clause](limit.sql)
-+ [SQL Min Max](minmax.sql)
+>Follow us on [Instagram](https://www.instagram.com/datascience.drgroot/)
+>Follow us on [Twitter](https://twitter.com/DrGroot7)
+>[Github](www.github.com/dr-groot)
+
+
+
+
 ## Practice Dataset
-+ [HR Employee Dataset](hremployee.csv)
-+ [Customer Complaint Mini Dataset](CustomerComplaint.csv)
++ [Customer Complaint](customercomplaint.csv)
++ [Hr Employee](hremployee.csv)
