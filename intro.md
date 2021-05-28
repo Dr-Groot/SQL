@@ -1,6 +1,6 @@
 # SQL INTRODUCTION
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.onemonth.com%2Fthe-best-way-to-learn-sql%2F&psig=AOvVaw0yrd7DyW8MxZJupwerpVha&ust=1622286941602000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNikjPqf7PACFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/63160825/119976059-35b5a200-bfd4-11eb-8512-daed4e85fdf7.png)
+![image](https://user-images.githubusercontent.com/63160825/119976059-35b5a200-bfd4-11eb-8512-daed4e85fdf7.png)
 
 > What is SQL?
 
