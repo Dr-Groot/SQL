@@ -6,8 +6,8 @@ SELECT DISTINCT column1, column2, ...
 FROM table_name;
 
 /* ------------EXAMPLE-------------*/
-/* If there is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
-Issue, City, PostalCode and Country columns which are having data */
+/* There is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
+Issue, City, PostalCode and Country as columns */
 
 /* If we have to select different values of City from CustomerComplaint */
 SELECT DISTINCT City FROM CustomerComplaint;
