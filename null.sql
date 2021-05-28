@@ -18,8 +18,8 @@ WHERE column_name IS NOT NULL;
 
 
 /* ------------EXAMPLE-------------*/
-/* If there is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
-Issue, City, PostalCode and Country columns */
+/* There is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
+Issue, City, PostalCode and Country as columns */
 
 /* List all customers with a NULL value in the "Address" field: */
 SELECT CustomerId, CustomerName, Address
