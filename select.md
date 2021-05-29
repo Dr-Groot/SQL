@@ -20,7 +20,9 @@ SELECT * FROM table_name;
 ## EXAMPLE
 Suppose there is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
 Issue, City, PostalCode and Country as columns 
+
 <br />
+
 If we have to select CustomerName and Issue from CustomerComplaint, then we will go with:
 ```sql
 SELECT CustomerName, Issue FROM CustomerComplaint;
