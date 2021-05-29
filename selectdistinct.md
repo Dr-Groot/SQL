@@ -19,13 +19,14 @@ If we have to select different values of City from CustomerComplaint.
 SELECT DISTINCT City FROM CustomerComplaint;
 ```
 <br />
+
 If we have to count the different City from CustomerComplaint
 ```sql
 SELECT COUNT(DISTINCT City) FROM CustomerComplaint;
 ```
 <br />
-> The example above will not work in Firefox Because COUNT(DISTINCT column_name) is 
-> not supported in Microsoft Access databases. Firefox is using Microsoft Access in our examples.
+
+> The example above will not work in Firefox Because COUNT(DISTINCT column_name) is not supported in Microsoft Access databases. Firefox is using Microsoft Access in our examples.
 
 For MS Access: 
 ```sql
