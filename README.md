@@ -12,6 +12,7 @@
 + [SELECT STATEMENT](select.md)
 + [DISTINCT](selectdistinct.md)
 + [WHERE CLAUSE](where.md)
++ [NOT, AND and OR](andornot.md)
 
 
 ## PRACTICE DATASET
