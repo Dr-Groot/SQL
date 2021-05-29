@@ -16,6 +16,7 @@ Suppose there is a Table name as "CustomerComplaint" having CustomerID, Customer
 Issue, City, PostalCode and Country as columns.
 
 <br />
+
 If we want to select all customers from India.
 ```sql
 SELECT * FROM Customers
@@ -23,6 +24,7 @@ WHERE Country='India';
 ```
 
 <br />
+
 If we want to select customer which is having customerID is 12 
 ```sql
 SELECT * FROM Customers
