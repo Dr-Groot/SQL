@@ -17,7 +17,7 @@
 + [INSERT INTO](insertinto.md)
 + [NULL VALUE](null.md)
 + [UPDATE](update.md)
-
++ [DELETE](delete.md)
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
