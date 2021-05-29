@@ -19,6 +19,7 @@
 + [UPDATE](update.md)
 + [DELETE](delete.md)
 + [LIMIT](limit.md)
++ [MIN AND MAX](minmax.md)
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
