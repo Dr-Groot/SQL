@@ -10,14 +10,15 @@ For example, if you want to select all the record of a table:
 ```sql
 SELECT * FROM TABLE_NAME;
 ```
-> Above will allow all the element of the table to be displayed as * means all colomns 
+> Above statement will allow all the element of the table to be displayed as * means all columns 
 
-Sql keyword are not case sensitive, which means
+SQL keyword are not Case Sensitive, which means
 ```sql
 select = SELECT
 ```
 
 > Why semicolons in the end of the Query?
+
 Semicolon is the standard way to separate each SQL statement in database systems that allow more than one SQL statement
 to be executed in the same call to the server. 
 
