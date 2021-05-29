@@ -37,18 +37,18 @@ Issue, City, PostalCode and Country as columns.
 
 + List all customers with a NULL value in the "Address" field: 
 ```sql
-SELECT CustomerId, CustomerName, Address
-FROM CustomerComplaint
-WHERE Address IS NULL;
+SELECT CustomerId, CustomerName, Address
+FROM CustomerComplaint
+WHERE Address IS NULL;
 ```
 
 <br />
 
 + Lists all customers with a value in the "Address" field:
 ```sql
-SELECT CustomerID, CustomerName, Address
-FROM CustomerComplaint
-WHERE Address IS NOT NULL;
+SELECT CustomerID, CustomerName, Address
+FROM CustomerComplaint
+WHERE Address IS NOT NULL;
 ```
 
 [< BACK](README.md)
