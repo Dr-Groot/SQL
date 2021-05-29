@@ -11,6 +11,7 @@
 + [SYNTAX](syntax.md)
 + [SELECT STATEMENT](select.md)
 + [DISTINCT](selectdistinct.md)
++ [WHERE CLAUSE](where.md)
 
 
 ## PRACTICE DATASET
