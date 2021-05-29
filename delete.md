@@ -22,7 +22,7 @@ Issue, City, PostalCode and Country as columns.
 
 + SQL statement deletes the customer "Philip" from the “CustomerComplaint" table:
 ```sql
-DELETE FROM CustomerComplaint 
+DELETE FROM CustomerComplaint
 WHERE CustomerName=‘Philip;
 ```
 
