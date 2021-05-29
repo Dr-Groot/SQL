@@ -13,7 +13,7 @@
 + [DISTINCT](selectdistinct.md)
 
 
-## Practice Dataset
+## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
 + [Hr Employee](hremployee.csv)
 
