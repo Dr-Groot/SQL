@@ -12,14 +12,15 @@ SELECT * FROM TABLE_NAME;
 ```
 > Above statement will allow all the element of the table to be displayed as means all columns 
 
----
+<br />
 
 SQL keyword are not Case Sensitive, which means
 
 ```sql
 select = SELECT
 ```
----
+<br />
+
 > Why semicolons in the end of the Query?
 
 Semicolon is the standard way to separate each SQL statement in database systems that allow more than one SQL statement
