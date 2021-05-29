@@ -40,6 +40,7 @@ WHERE PostalCode = 226001;
 Above statement will return all records having postal code as 2206001
 
 <br />
+
 + For Greater than > || Less than < || Greater than or equal >= || Less than Less than or equal <= || Not equal <>
 ```sql
 SELECT * FROM CustomerComplaint
@@ -48,6 +49,7 @@ WHERE  CustomerId > 3;
 It will return all record having Customer ID greater than 3
 
 <br />
+
 + BETWEEN	  
 ```sql
 SELECT * FROM CustomerComplaint
@@ -56,6 +58,7 @@ WHERE CustomerID BETWEEN 2 AND 5;
 It will return all record having Customer ID between 2 to 5
 
 <br />
+
 + LIKE	    
 ```sql
 SELECT * FROM CustomerComplaint 
