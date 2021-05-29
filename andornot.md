@@ -64,7 +64,7 @@ WHERE City='Delhi' OR City='Lucknow';
 Selects all fields from "CustomerComplaint" where country is NOT “India": 
 ```sql
 SELECT * FROM CustomerComplaint
-WHERE NOT Country=‘India;
+WHERE NOT Country=‘India';
 ```
 
 <br />
@@ -74,14 +74,14 @@ WHERE NOT Country=‘India;
 Selects all fields from “CustomerComplaint" where country is "India" AND city must be "Lucknow" OR "Delhi".
 ```sql
 SELECT * FROM CustomerComplaint 
-WHERE Country='India' AND (City='Lucknow' OR City=‘Delhi);
+WHERE Country='India' AND (City='Lucknow' OR City=‘Delhi');
 ```
 
 <br />
 
 Example: Selects all fields from "Customers" where country is NOT "Germany" and NOT “USA":
 ```sql
-SELECT * FROM CustomerComplaint
+SELECT * FROM CustomerComplaint
 WHERE NOT Country=‘India’ AND NOT Country='Mexico';
 ```
 [< BACK](README.md)
