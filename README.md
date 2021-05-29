@@ -18,6 +18,7 @@
 + [NULL VALUE](null.md)
 + [UPDATE](update.md)
 + [DELETE](delete.md)
++ [LIMIT](limit.md)
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
