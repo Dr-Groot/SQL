@@ -10,9 +10,10 @@ For example, if you want to select all the record of a table:
 ```sql
 SELECT * FROM TABLE_NAME;
 ```
-> Above statement will allow all the element of the table to be displayed as * means all columns 
+> Above statement will allow all the element of the table to be displayed as means all columns 
 
 SQL keyword are not Case Sensitive, which means
+
 ```sql
 select = SELECT
 ```
