@@ -16,18 +16,18 @@ is one that has been left blank during record creation.
 
 + FOR IS NULL:
 ```sql
-SELECT column_names
-FROM table_name
-WHERE column_name IS NULL;
+SELECT column_names
+FROM table_name
+WHERE column_name IS NULL;
 ``` 
 
 <br />
 
 + FOR IS NOT NULL
 ```sql
-SELECT column_names
-FROM table_name
-WHERE column_name IS NOT NULL;
+SELECT column_names
+FROM table_name
+WHERE column_name IS NOT NULL;
 ```
 
 ## EXAMPLE
