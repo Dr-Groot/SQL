@@ -1,9 +1,15 @@
-/* The UPDATE statement is used to modify the existing records in a table.*/
+[< BACK](README.md)
 
-/* UPDATE SYNTAX */
+# UPDATE STATEMENT
+
+The UPDATE statement is used to modify the existing records in a table.
+
+## UPDATE SYNTAX
+```sql
 UPDATE table_name
 SET column1 = value1, column2 = value2, ...
 WHERE condition;
+```
 
 /* While using UPDATE be carefull as it can update all the record in the table so we use WHERE Clause */
 
