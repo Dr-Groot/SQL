@@ -10,6 +10,8 @@ INSERT INTO table_name (column1, column2, column3, ...)
 VALUES (value1, value2, value3, ...);
 ```
 
+<br />
+
 + SECOND WAY by giving table name and values:
 ```sql
 INSERT INTO table_name
@@ -32,12 +34,16 @@ inserted into the table.
 
 > The CustomerID column is an auto-increment field and will be generated automatically when a new record is inserted into the table.
 
+<br />
+
 + By Specifying Columns
 ```sql
 INSERT INTO CustomerComplaint VALUES ("A1", "A2", "A3","A4", "A5", "A6", "A7", "A8")
 ```
 
 > If any values gets missing it will throw an error.
+
+<br />
 
 + Inserting into Specified Columns
 ```sql
