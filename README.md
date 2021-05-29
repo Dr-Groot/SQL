@@ -9,7 +9,7 @@
 
 + [INTRODUCTION](intro.md)
 + [SYNTAX](syntax.md)
-
++ [SELECT STATEMENT](select.md)
 
 
 ## Practice Dataset
