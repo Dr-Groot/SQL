@@ -43,8 +43,8 @@ Issue, City, PostalCode and Country as columns.
 
 Selects all fields from "CustomerComplaint" where country is "Germany" AND city is “Berlin”:
 ```sql
-SELECT * FROM CustomerComplaint
-WHERE Country='Germany' AND City=‘Berlin’;
+SELECT * FROM CustomerComplaint
+WHERE Country='Germany' AND City=‘Berlin’;
 ```
 
 <br />
