@@ -1,9 +1,11 @@
 [< BACK](./README.md)
 # SYNTAX
+---
 A database most often contains one or more tables. Each table is identified by a name (e.g. "Customers" or "Orders"). 
 Tables contain records (rows) with data.
 
 ## SQL STATEMENTS
+---
 With the help of SQL statements or query we are able to perform actions on database.
 For example, if you want to select all the record of a table:
 
@@ -22,7 +24,8 @@ select = SELECT
 Semicolon is the standard way to separate each SQL statement in database systems that allow more than one SQL statement
 to be executed in the same call to the server. 
 
-## Important SQL Command 
+## Important SQL Command
+---
 
 | COMMAND          | USES                            | 
 | ---------------- | ------------------------------: | 
