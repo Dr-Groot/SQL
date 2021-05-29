@@ -13,6 +13,7 @@
 + [DISTINCT](selectdistinct.md)
 + [WHERE CLAUSE](where.md)
 + [NOT, AND and OR](andornot.md)
++ [ORDER BY](orderby.md)
 
 
 ## PRACTICE DATASET
