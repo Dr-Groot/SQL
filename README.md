@@ -16,6 +16,7 @@
 + [ORDER BY](orderby.md)
 + [INSERT INTO](insertinto.md)
 + [NULL VALUE](null.md)
++ [UPDATE](update.md)
 
 
 ## PRACTICE DATASET
