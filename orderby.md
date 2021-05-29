@@ -24,8 +24,8 @@ Issue, City, PostalCode and Country as columns.
 
 Selects all customers from the "CustomerComplaint" table, sorted by the "Country" column: 
 ```sql
-SELECT * FROM CustomerComplaint
-ORDER BY Country;
+SELECT * FROM CustomerComplaint
+ORDER BY Country;
 ```
 
 > Default value is ASC in ORDER BY.
@@ -34,7 +34,7 @@ ORDER BY Country;
 
 And same task for getting in **Descending Order**
 ```sql
-SELECT * FROM CustomerComplaint
-ORDER BY Country DESC
+SELECT * FROM CustomerComplaint
+ORDER BY Country DESC
 ```
 [< BACK](README.md)
