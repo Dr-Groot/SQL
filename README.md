@@ -1,4 +1,4 @@
-# SQL by Dr.Groot(Aman Pratap Singh)
+# SQL by Dr.Groot
 ---
 > Follow us on [Instagram](https://www.instagram.com/datascience.drgroot/) || 
 > Follow us on [Twitter](https://twitter.com/DrGroot7) || 
