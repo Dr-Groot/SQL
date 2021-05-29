@@ -15,6 +15,7 @@
 + [NOT, AND and OR](andornot.md)
 + [ORDER BY](orderby.md)
 + [INSERT INTO](insertinto.md)
++ [NULL VALUE](null.md)
 
 
 ## PRACTICE DATASET
