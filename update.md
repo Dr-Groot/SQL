@@ -39,9 +39,10 @@ WHERE Country=‘India;
 <br />
 
 UPDATING WITHOUT WHERE will omit all the record to be changed as hello in CustomerName Column.
-``sql
+
+```sql
 UPDATE CustomerComplaint
 SET CustomerName=‘hello';
 ```
 
-[< BACK]()
+[< BACK](README.md)
