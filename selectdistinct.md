@@ -13,7 +13,9 @@ Above statement will give differenet values of Column1, Column2 and so on.
 ## EXAMPLE
 Suppose there is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
 Issue, City, PostalCode and Country as columns.
+
 <br />
+
 If we have to select different values of City from CustomerComplaint.
 ```sql
 SELECT DISTINCT City FROM CustomerComplaint;
