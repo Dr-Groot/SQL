@@ -40,6 +40,7 @@ Issue, City, PostalCode and Country as columns.
 <br />
 
 + AND EXAMPLE 
+
 Selects all fields from "CustomerComplaint" where country is "Germany" AND city is “Berlin”:
 ```sql
 SELECT * FROM CustomerComplaint
@@ -49,6 +50,7 @@ WHERE Country='Germany' AND City=‘Berlin’;
 <br />
 
 + OR EXAMPLE
+
 Selects all fields from "CustomerComplaint" where city is “Delhi" OR “Lucknow":
 ```sql
 SELECT * FROM CustomerComplaint
@@ -58,6 +60,7 @@ WHERE City='Delhi' OR City='Lucknow';
 <br />
 
 + NOT EXAMPLE 
+
 Selects all fields from "CustomerComplaint" where country is NOT “India": 
 ```sql
 SELECT * FROM CustomerComplaint
@@ -67,6 +70,7 @@ WHERE NOT Country=‘India;
 <br />
 
 + AND, OR and NOT TOGETHER 
+
 Selects all fields from “CustomerComplaint" where country is "India" AND city must be "Lucknow" OR "Delhi".
 ```sql
 SELECT * FROM CustomerComplaint 
