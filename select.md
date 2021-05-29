@@ -26,8 +26,10 @@ If we have to select CustomerName and Issue from CustomerComplaint, then we will
 SELECT CustomerName, Issue FROM CustomerComplaint;
 ```
 <br />
+
 If we have to Select All the columns of CustomerComplaint table, then:
 ```sql
 SELECT * FROM CustomerComplaint;
 ```
+
 [< BACK](README.md)
