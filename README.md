@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/63160825/119977852-87f7c280-bfd6-11eb-9d5b-3ac93d7da166.png)
 
-
+## TOPICS
 + [INTRODUCTION](intro.md)
 + [SYNTAX](syntax.md)
 + [SELECT STATEMENT](select.md)
