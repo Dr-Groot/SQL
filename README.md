@@ -14,6 +14,7 @@
 + [WHERE CLAUSE](where.md)
 + [NOT, AND and OR](andornot.md)
 + [ORDER BY](orderby.md)
++ [INSERT INTO](insertinto.md)
 
 
 ## PRACTICE DATASET
