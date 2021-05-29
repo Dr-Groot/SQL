@@ -28,12 +28,13 @@ SELECT * FROM CustomerComplaint
 ORDER BY Country;
 ```
 
-> Default value is ASC in ORDER BY if we initilize or not but
+> Default value is ASC in ORDER BY.
 
 <br />
 
-And same task for getting in Descending order
+And same task for getting in **Descending Order**
 ```sql
 SELECT * FROM CustomerComplaint
 ORDER BY Country DESC
 ```
+[< BACK](README.md)
