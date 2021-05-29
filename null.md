@@ -32,7 +32,7 @@ WHERE column_name IS NOT NULL;
 
 ## EXAMPLE
 
-There is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
+Suppose there is a Table name as "CustomerComplaint" having CustomerID, CustomerName, ProductName
 Issue, City, PostalCode and Country as columns.
 
 + List all customers with a NULL value in the "Address" field: 
