@@ -10,6 +10,7 @@
 + [INTRODUCTION](intro.md)
 + [SYNTAX](syntax.md)
 + [SELECT STATEMENT](select.md)
++ [DISTINCT](selectdistinct.md)
 
 
 ## Practice Dataset
