@@ -4,19 +4,19 @@
 + The MIN() function returns the smallest value of the selected column.
 + The MAX() function returns the largest value of the selected column. 
   
-## MIN() AND MIN() SYNTAX */
+## MIN() AND MIN() SYNTAX
 ```sql
-SELECT MIN(column_name)
-FROM table_name
-WHERE condition;
+SELECT MIN(column_name)
+FROM table_name
+WHERE condition;
 ```
 
 <br />
 
 ```sql
-SELECT MAX(column_name)
-FROM table_name
-WHERE condition;
+SELECT MAX(column_name)
+FROM table_name
+WHERE condition;
 ```
 
 # EXAMPLE
@@ -27,16 +27,16 @@ Education, EducationField columns, EmployeeNumber, etc as Columns.
 
 + SQL statement finds the price of the cheapest Daily Rate:
 ```sql
-SELECT MIN(DailyRate) AS SmallestPrice
-FROM HrEmployee;
+SELECT MIN(DailyRate) AS SmallestPrice
+FROM HrEmployee;
 ```
 
 <br />
 
 + SQL statement finds the price of the cheapest Daily Rate:
 ```sql
-SELECT MAX(DailyRate) AS LargestPrice
-FROM HrEmployee;
+SELECT MAX(DailyRate) AS LargestPrice
+FROM HrEmployee;
 ```
 
 <br />
