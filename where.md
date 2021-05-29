@@ -66,11 +66,15 @@ WHERE ProductName LIKE ‘%P’;
 ```
 It will return all the record ending with letter P
 
+<br />
 
-IN	      
-/*To specify multiple possible values for a column Example */
++ IN
+```sql      
 SELECT * FROM CustomerComplaint
 WHERE City IN (“Lucknow”, “Berlin”);
-/* Arguement value of IN are Case Sensitive */
+```
+It will return all possible values where city is Lucknow and Berlin
+
+> Arguement value of IN are Case Sensitive 
 
 [< BACK](README.md)
