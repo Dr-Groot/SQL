@@ -8,6 +8,7 @@
 
 
 + [INTRODUCTION](intro.md)
++ [SYNTAX](syntax.md)
 
 
 
