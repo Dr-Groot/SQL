@@ -21,6 +21,7 @@
 + [LIMIT](limit.md)
 + [MIN AND MAX](minmax.md)
 + [SUM, AVG and COUNT](sumavgcount.md)
++ [LIKE](like.md)
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
