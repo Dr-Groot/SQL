@@ -22,6 +22,7 @@
 + [MIN AND MAX](minmax.md)
 + [SUM, AVG and COUNT](sumavgcount.md)
 + [LIKE](like.md)
++ [WILDCARD](wildcard.md)
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
