@@ -34,3 +34,61 @@ Different LIKE operators with "%" and "_" wildcards:
 ## EXAMPLE
 Suppose there is a Table name as "HrEmployee" having Age, Attrition, BusinessTravel, DailyRate, Department,
 DistanceFromHome, Education, EducationField columns, EmployeeNumber, etc as Columns.
+
++ SQL statement selects all employees with a EducationField starting with "a":
+```sql
+SELECT * FROM HrEmployee
+WHERE EducaitonField LIKE 'a%';
+```
+
+<br />
+
++ SQL statement selects all employees with a EducationField eniding with "a":
+```sql
+SELECT * FROM HrEmployee
+WHERE EducaitonField LIKE '%a';
+```
+
+<br />
+
++ SQL statement selects all employees with a EducationField that have "or" in any position:
+```sql
+SELECT * FROM HrEmployee
+WHERE EducaitonField LIKE '%or%';
+```
+
+<br />
+
++ SQL statement selects all employees with a EducationField that have "o" in the second position:
+```sql
+SELECT * FROM HrEmployee
+WHERE EducaitonField LIKE '_o%';
+```
+
+<br />
+
++ SQL statement selects all employees with a EducationField that start with "a" and are atleast 3 characters in length:
+```sql
+SELECT * FROM HrEmployee
+WHERE EducaitonField LIKE 'a__%';
+```
+
+<br />
+
++ SQL statement selects all employees with a EducationField that start with "a" and end with "o":
+```sql
+SELECT * FROM HrEmployee
+WHERE EducaitonField LIKE 'a%o';
+```
+
+<br />
+
++ SQL statement selects all employees with a EducationField that doesn't start with "b":
+```sql
+SELECT * FROM HrEmployee
+WHERE EducaitonField NOT LIKE 'b%';
+```
+
+<br />
+
+[< BACK](README.md)
