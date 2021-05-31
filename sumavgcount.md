@@ -31,4 +31,34 @@ WHERE condition;
 
 ## EXAMPLES
 
-+ SUM() EXAMPLE:
+Suppose there is a Table name as "HrEmployee" having Age, Attrition, BusinessTravel, DailyRate, Department, DistanceFromHome,
+Education, EducationField columns, EmployeeNumber, etc as Columns.
+
+<br />
+
++ SQL statement finds the sum of the "DailyRate" fields in the "HrEmployee" table:
+```sql
+SELECT SUM(DailyRate)
+FROM HrEmployee;
+```
+
+> During the sum, Null values are ignored
+
+<br />
+
++ SQL statement finds the average of the "DailyRate" fields in the "HrEmployee" table:
+```sql
+SELECT AVG(DailyRate)
+FROM HrEmployee;
+```
+
+<br />
+
++ SQL statement finds the number of Female worker from "HrEmployee":
+```sql
+SELECT COUNT(GENDER)
+FROM HrEmployee
+Where GENDER = "FEMALE"
+```
+
+[< BACK](README.md)
