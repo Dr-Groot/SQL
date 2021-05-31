@@ -22,7 +22,7 @@ WHERE columnN LIKE pattern;
 Different LIKE operators with "%" and "_" wildcards:
 
 | Like Operator    | Description                                                                  | 
-| ---------------- | :--------------------------------------------------------------------------- | 
+| ---------------- | ---------------------------------------------------------------------------- | 
 | LIKE 'a%'        | Finds any values that start with "a"                                         | 
 | LIKE '%a'        | Finds any values that end with "a"                                           |
 | LIKE '%or%'      | Finds any values that have "or" in any position                              |
