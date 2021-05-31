@@ -20,6 +20,7 @@
 + [DELETE](delete.md)
 + [LIMIT](limit.md)
 + [MIN AND MAX](minmax.md)
++ [SUM, AVG and COUNT](sumavgcount.md)
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
