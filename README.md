@@ -23,6 +23,7 @@
 + [SUM, AVG and COUNT](sumavgcount.md)
 + [LIKE](like.md)
 + [WILDCARD](wildcard.md)
++ [IN](in.md)
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
