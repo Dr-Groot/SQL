@@ -1,9 +1,12 @@
 [< PREVIOUS](intro.md) || [NEXT >](select.md)
+
 # SYNTAX
+
 A database most often contains one or more tables. Each table is identified by a name (e.g. "Customers" or "Orders"). 
 Tables contain records (rows) with data.
 
 ## SQL STATEMENTS
+
 With the help of SQL statements or query we are able to perform actions on database.
 For example, if you want to select all the record of a table:
 
