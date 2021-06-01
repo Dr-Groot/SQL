@@ -1,4 +1,4 @@
-[< BACK](README.md)[NEXT >](syntax.md)
+[< BACK](README.md)  [NEXT >](syntax.md)
 # SQL INTRODUCTION
 
 ![image](https://user-images.githubusercontent.com/63160825/119976059-35b5a200-bfd4-11eb-8512-daed4e85fdf7.png)
@@ -48,6 +48,6 @@ SQL is used in the **accessing**, **updating**, and **manipulation** of data�
 
 Every table is broken up into smaller entities called **Fields**. The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column(vertical) in a table that is designed to maintain specific information about every record in the table. A record, also called a row(horizontal), is each individual entry that exists in a table.
 
-[< BACK](README.md)[NEXT >](syntax.md)
+[< BACK](README.md)  [NEXT >](syntax.md)
 
-[HOME][README.md]
+[HOME](README.md)
