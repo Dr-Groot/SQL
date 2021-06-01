@@ -1,4 +1,4 @@
-[< BACK](README.md)
+[< PREVIOUS](andornot.md) || [NEXT >](insertinto.md)
 
 # ORDER BY
 
@@ -37,4 +37,6 @@ And same task for getting in **Descending Order**
 SELECT * FROM CustomerComplaint
 ORDER BY Country DESC
 ```
-[< BACK](README.md)
+[< PREVIOUS](andornot.md) || [NEXT >](insertinto.md)
+
+[HOME](README.md)
