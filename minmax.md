@@ -33,7 +33,7 @@ FROM HrEmployee;
 
 <br />
 
-+ SQL statement finds the price of the cheapest Daily Rate:
++ SQL statement finds the price of the highest Daily Rate:
 ```sql
 SELECT MAX(DailyRate) AS LargestPrice
 FROM HrEmployee;
@@ -41,7 +41,7 @@ FROM HrEmployee;
 
 <br />
 
-+ SQl statement finds the full detail of person having highest daily rate:
++ SQL statement finds the full detail of person having highest daily rate:
 ```sql
 SELECT dailyrate AS Highest 
 FROM HrEmployee 
