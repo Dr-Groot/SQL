@@ -1,4 +1,4 @@
-[< BACK](README.md)
+[< PREVIOUS](select.md) || [NEXT >](where.md)
 # SELECT DISTINCT
 The SELECT DISTINCT statement is used to return only distinct (different) values. 
 To elimnate duplicate element while selecting any column. 
@@ -36,4 +36,7 @@ For MS Access:
 SELECT Count(*) AS DistinctCountries
 FROM (SELECT DISTINCT Country FROM Customers);
 ```
-[< BACK](README.md)
+
+[< PREVIOUS](select.md) || [NEXT >](where.md)
+
+[HOME](README.md)
