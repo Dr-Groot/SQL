@@ -1,4 +1,4 @@
-[< BACK](README.md)
+[< PREVIOUS](sumavgcount.md) || [NEXT >](wildcard.md)
 
 # LIKE OPERATOR
 To Search for a specified pattern in a column we use LIKE operator in a WHERE clause.
@@ -91,4 +91,6 @@ WHERE EducaitonField NOT LIKE 'b%';
 
 <br />
 
-[< BACK](README.md)
+[< PREVIOUS](sumavgcount.md) || [NEXT >](wildcard.md)
+
+[HOME](README.md)
