@@ -1,4 +1,4 @@
-[< BACK](README.md)
+[< PREVIOUS](like.md) || [NEXT >](in.md)
 
 # WILDCARDS
 
@@ -43,4 +43,6 @@ EXAMPLES WITH **LIKE** opearor:
 
 <br />
 
-[< BACK](README.md)
+[< PREVIOUS](like.md) || [NEXT >](in.md)
+
+[HOME](README.md)
