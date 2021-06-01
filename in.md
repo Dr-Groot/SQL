@@ -1,4 +1,4 @@
-[< BACK](README.md)
+[< PREVIOUS](wildcard.md) || [NEXT >](between.md)
 
 # IN OPERATOR
 
@@ -49,5 +49,7 @@ SELECT * FROM Customers
 WHERE Country IN (SELECT Country FROM Suppliers);
 ```
 
-[< BACK](README.md)
+[< PREVIOUS](wildcard.md) || [NEXT >](between.md)
+
+[HOME](README.md)
 
