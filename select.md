@@ -1,4 +1,4 @@
-[< BACK](README.md)
+[< PREVIOUS](syntax.md.md) || [NEXT >](selectdistinct.md)
 # SELECT STATEMENT
 
 The SELECT statement is used to select data from a database.
@@ -34,4 +34,5 @@ If we have to Select All the columns of CustomerComplaint table, then:
 SELECT * FROM CustomerComplaint;
 ```
 
-[< BACK](README.md)
+[< PREVIOUS](syntax.md.md) || [NEXT >](selectdistinct.md)
+[HOME](README.md)
