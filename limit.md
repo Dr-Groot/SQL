@@ -1,4 +1,4 @@
-[< BACK](README.md)
+[< PREVIOUS](delete.md) || [NEXT >](minmax.md)
 
 # LIMIT, TOP CLAUSE
 
@@ -95,4 +95,6 @@ WHERE Country='Germany'
 FETCH FIRST 3 ROWS ONLY;
 ```
 
-[< BACK](README.md)
+[< PREVIOUS](delete.md) || [NEXT >](minmax.md)
+
+[HOME](README.md)
