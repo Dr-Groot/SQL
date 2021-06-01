@@ -1,4 +1,5 @@
-[< BACK](README.md)
+[< PREVIOUS](orderby.md) || [NEXT >](null.md)
+
 # INSERT INTO
 
 To insert new record we use INSERT INTO Statement.
@@ -53,4 +54,6 @@ VALUES ('alpha', 'beta', ‘gama');
 
 > Unspecified columns will result in the form of NULL 
 
-[< BACK](README.md)
+[< PREVIOUS](orderby.md) || [NEXT >](null.md)
+
+[HOME](README.md)
