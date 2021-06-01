@@ -1,4 +1,5 @@
-[< BACK](README.md)
+[< PREVIOUS](selectdistinct.md) || [NEXT >](andornot.md)
+
 # WHERE CLAUSE
 For filtering record we use Where Clause, extracting information that fulfill a specified condition.
 
@@ -77,4 +78,6 @@ It will return all possible values where city is Lucknow and Berlin
 
 > Arguement value of IN are Case Sensitive 
 
-[< BACK](README.md)
+[< PREVIOUS](selectdistinct.md) || [NEXT >](andornot.md)
+
+[HOME](README.md)
