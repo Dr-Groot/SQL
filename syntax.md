@@ -1,4 +1,4 @@
-[< BACK](./README.md)
+[< PREVIOUS](intro.md) || [NEXT >](select.md)
 # SYNTAX
 A database most often contains one or more tables. Each table is identified by a name (e.g. "Customers" or "Orders"). 
 Tables contain records (rows) with data.
@@ -42,4 +42,6 @@ to be executed in the same call to the server.
 | CREATE INDEX     | creates an index (search key)   |
 | DROP INDEX       | deletes an index                |
 
-[< BACK](./README.md)
+[< PREVIOUS](intro.md) || [NEXT >](select.md)
+
+[HOME](README.md)
