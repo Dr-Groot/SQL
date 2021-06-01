@@ -1,4 +1,4 @@
-[< BACK](README.md)
+[< PREVIOUS](minmax.md) || [NEXT >](like.md)
 
 # SUM, AVG and COUNT FUNTIONS
 
@@ -61,4 +61,6 @@ FROM HrEmployee
 Where GENDER = "FEMALE"
 ```
 
-[< BACK](README.md)
+[< PREVIOUS](minmax.md) || [NEXT >](like.md)
+
+[HOME](README.md)
