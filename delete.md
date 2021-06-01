@@ -1,4 +1,4 @@
-[< BACK](README.md)
+[< PREVIOUS](update.md) || [NEXT >](limit.md)
 
 # DELETE
 
@@ -34,4 +34,6 @@ DELETE FROM CustomerComplaint;
 ```
 > While running this query it will only delete all the records, not the table.
 
-[< BACK](README.md)
+[< PREVIOUS](update.md) || [NEXT >](limit.md)
+
+[HOME](README.md)
