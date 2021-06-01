@@ -1,4 +1,5 @@
 [< PREVIOUS](README.md) || [NEXT >](syntax.md)
+
 # SQL INTRODUCTION
 
 ![image](https://user-images.githubusercontent.com/63160825/119976059-35b5a200-bfd4-11eb-8512-daed4e85fdf7.png)
@@ -47,6 +48,7 @@ An RDBMS is a DBMS designed specifically for relational databases or SQL datab
 SQL is used in the **accessing**, **updating**, and **manipulation** of data in a database while MySQL is an RDBMS that allows keeping the data that exists in a database organised. SQL is a Structured Query Language and MySQL is a RDBMS to store, retrieve, modify and administrate a database. The data in RDBMS is stored in database objects called **Tables**. A table is a collection of related data entries and it consists of columns and rows.It is basically a relationships between data items are expressed by means of tables.
 
 Every table is broken up into smaller entities called **Fields**. The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column(vertical) in a table that is designed to maintain specific information about every record in the table. A record, also called a row(horizontal), is each individual entry that exists in a table.
+
 
 [< PREVIOUS](README.md) || [NEXT >](syntax.md)
 
