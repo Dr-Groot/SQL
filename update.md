@@ -1,4 +1,4 @@
-[< BACK](README.md)
+[< PREVIOUS](null.md) || [NEXT >](delete.md)
 
 # UPDATE STATEMENT
 
@@ -45,4 +45,6 @@ UPDATE CustomerComplaint
 SET CustomerName=‘hello';
 ```
 
-[< BACK](README.md)
+[< PREVIOUS](null.md) || [NEXT >](delete.md)
+
+[HOME](README.md)
