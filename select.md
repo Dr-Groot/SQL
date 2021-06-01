@@ -35,4 +35,5 @@ SELECT * FROM CustomerComplaint;
 ```
 
 [< PREVIOUS](syntax.md.md) || [NEXT >](selectdistinct.md)
+
 [HOME](README.md)
