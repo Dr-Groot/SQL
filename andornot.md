@@ -1,4 +1,5 @@
-[< BACK](README.md)
+[< PREVIOUS](where.md) || [NEXT >](orderby.md)
+
 # AND, OR and NOT OPERATOR
 AND, OR and NOT are used with cobination of WHERE Clause.
 + The AND operator displays a record if all the conditions separated by AND are TRUE.  
@@ -84,4 +85,6 @@ Example: Selects all fields from "Customers" where country is NOT "Germany" and 
 SELECT * FROM CustomerComplaint
 WHERE NOT Country=‘India’ AND NOT Country='Mexico';
 ```
-[< BACK](README.md)
+[< PREVIOUS](where.md) || [NEXT >](orderby.md)
+
+[HOME](README.md)
