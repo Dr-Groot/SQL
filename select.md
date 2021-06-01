@@ -1,4 +1,5 @@
 [< PREVIOUS](syntax.md) || [NEXT >](selectdistinct.md)
+
 # SELECT STATEMENT
 
 The SELECT statement is used to select data from a database.
