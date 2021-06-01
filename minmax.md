@@ -1,4 +1,5 @@
-[< BACK](README.md)
+[< PREVIOUS](limit.md) || [NEXT >](sumavgcount.md)
+
 # MIN AND MAX
 
 + The MIN() function returns the smallest value of the selected column.
@@ -48,4 +49,6 @@ FROM HrEmployee
 ORDER by dailyrate DESC LIMIT 1
 ```
 
-[< BACK](README.md)
+[< PREVIOUS](limit.md) || [NEXT >](sumavgcount.md)
+
+[HOME](README.md)
