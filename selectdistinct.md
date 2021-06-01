@@ -1,4 +1,5 @@
 [< PREVIOUS](select.md) || [NEXT >](where.md)
+
 # SELECT DISTINCT
 The SELECT DISTINCT statement is used to return only distinct (different) values. 
 To elimnate duplicate element while selecting any column. 
