@@ -52,6 +52,8 @@ AND EducationField NOT IN ("Medical");
 
 > We can add date also in range, ex: BETWEEN '1996-07-01' AND '1996-07-31'.
 
+<br />
+
 [< PREVIOUS](in.md) || [NEXT>](aliases.md)
 
 [HOME](README.md)
