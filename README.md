@@ -24,6 +24,7 @@
 + [LIKE](like.md)
 + [WILDCARD](wildcard.md)
 + [IN](in.md)
++ [BETWEEN](between.md)
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
