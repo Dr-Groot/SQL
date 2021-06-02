@@ -27,6 +27,7 @@
 + [BETWEEN](between.md)
 + [ALIASES](aliases.md)
 + [JOINS](joins.md)
++ [INNER JOIN](innerjoin.md)
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
