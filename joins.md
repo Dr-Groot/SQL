@@ -54,7 +54,15 @@ This will produce:
 
 ## DIIFERENT TYPES OF SQL JOINS:
 
-+ INNER JOIN: 
-+ LEFT (OUTER) JOIN:
-+ RIGHT 
-
++ INNER JOIN:           Returns records that have matching values in both tables
++ LEFT (OUTER) JOIN:    Returns all records from the left table, even if there are no matches in the right table.
++ RIGHT (OUTER) JOIN:   Returns all records from the right table,  even if there are no matches in the left table.
++ FULL (OUTER) JOIN:    Returns all records when there is a match in either left or right table
++ SELF JOIN:            Is used to join a table to itself as if the table were two tables, temporarily renaming at least one table in the SQL statement.
++ CARTESIAN JOIN or CROSS JOIN: Returns the Cartesian product of the sets of records from the two or more joined tables.
+
+<br />
+
+![image](https://user-images.githubusercontent.com/63160825/120469527-16e25180-c3c0-11eb-971f-dc948273a547.png)
+
+![image](https://user-images.githubusercontent.com/63160825/120470108-cd463680-c3c0-11eb-8b43-812f6158d4f0.png)
