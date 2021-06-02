@@ -66,3 +66,9 @@ This will produce:
 ![image](https://user-images.githubusercontent.com/63160825/120469527-16e25180-c3c0-11eb-971f-dc948273a547.png)
 
 ![image](https://user-images.githubusercontent.com/63160825/120470108-cd463680-c3c0-11eb-8b43-812f6158d4f0.png)
+
+<br />
+
+[HOME](README.md)
+
+[< PREVIOUS](aliases.md) || [NEXT >](innerjoin.md)
