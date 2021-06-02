@@ -52,3 +52,9 @@ This will produce:
 
 > You can be more specific by using SELECT Customers.ID, Customers.NAME, Customers.AGE, Orders.AMOUNT and it will yield same result. 
 
+## DIIFERENT TYPES OF SQL JOINS:
+
++ INNER JOIN: 
++ LEFT (OUTER) JOIN:
++ RIGHT 
+
