@@ -25,6 +25,7 @@
 + [WILDCARD](wildcard.md)
 + [IN](in.md)
 + [BETWEEN](between.md)
++ [ALIASES](aliases.md)
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
