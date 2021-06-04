@@ -28,6 +28,7 @@
 + [ALIASES](aliases.md)
 + [JOINS](joins.md)
 + [INNER JOIN](innerjoin.md)
++ [LEFT JOIN](leftjoin.md)
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
