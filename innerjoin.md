@@ -1,6 +1,6 @@
 [< PREVIOUS](joins.md) || [NEXT >](leftjoin.md)
 
-# INNER JOIN KEYWORD 
+# INNER JOIN 
 
 The INNER JOIN keyword selects records that have matching values in both tables.
 
