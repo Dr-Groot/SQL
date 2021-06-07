@@ -18,7 +18,7 @@ LEFT JOIN table2
 ON table1.id = table2.id;
 ```
 
-![image](https://user-images.githubusercontent.com/63160825/120754375-372e1f80-c52a-11eb-9ace-f4d77acace7c.png)
+![image](https://user-images.githubusercontent.com/63160825/120994398-107a1e00-c7a2-11eb-8e56-d8db1510c27e.png)
 
 > In some databases **LEFT JOIN** is called **LEFT OUTER JOIN**.
 
@@ -91,9 +91,8 @@ ON table1.id = table2.id;
 WHERE table2.id IS NULL
 ```
 
-![image](https://user-images.githubusercontent.com/63160825/120754375-372e1f80-c52a-11eb-9ace-f4d77acace7c.png)
+![image](https://user-images.githubusercontent.com/63160825/120994513-2c7dbf80-c7a2-11eb-88fb-5a43b4dac84d.png)
 
-> In some databases LEFT JOIN is called LEFT OUTER JOIN.
 
 ## EXAMPLE
 
@@ -122,13 +121,14 @@ Consider Table 2 -  "Orders" Table also:
 
 <br />
 
-Applying **Inclusive Left Join**:
+Applying **Exclusive Left Join**:
 
 ```sql
 SELECT  Customers.ID, Customers.NAME, Orders.AMOUNT, Orders.DATE
 FROM CUSTOMERS
 LEFT JOIN ORDERS
 ON CUSTOMERS.ID = ORDERS.CUSTOMER_ID;
+WHERE ORDERS.CUSTOMER_ID IS NULL
 ```
 
 **RESULT TABLE**
@@ -136,10 +136,6 @@ ON CUSTOMERS.ID = ORDERS.CUSTOMER_ID;
 | ID | NAME     | AMOUNT | DATE                |
 | -- | -------- | ------ | ------------------- |
 |  1 | Ramesh   |   NULL | NULL                |
-|  2 | Khilan   |   1560 | 2009-11-20 00:00:00 |
-|  3 | kaushik  |   3000 | 2009-10-08 00:00:00 |
-|  3 | kaushik  |   1500 | 2009-10-08 00:00:00 |
-|  4 | Chaitali |   2060 | 2008-05-20 00:00:00 |
 |  5 | Hardik   |   NULL | NULL                |
 |  6 | Komal    |   NULL | NULL                |
 |  7 | Muffy    |   NULL | NULL                |
