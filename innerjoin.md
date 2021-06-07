@@ -17,7 +17,7 @@ INNER JOIN table2
 ON table1.column_name = table2.column_name;
 ```
 
-![image](https://user-images.githubusercontent.com/63160825/120473781-041e4b80-c3c5-11eb-93da-dd65f9b1b74e.png)
+![image](https://user-images.githubusercontent.com/63160825/120991940-baa47680-c79f-11eb-9701-e0d7e03aaed1.png)
 
 ## EXAMPLE
 
