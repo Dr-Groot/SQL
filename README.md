@@ -29,6 +29,7 @@
 + [JOINS](joins.md)
 + [INNER JOIN](innerjoin.md)
 + [LEFT JOIN](leftjoin.md)
++ [RIGHT JOIN](rightjoin.md)
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
