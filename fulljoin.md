@@ -80,14 +80,14 @@ ON CUSTOMERS.ID = ORDERS.CUSTOMER_ID;
 
 # [EXCLUSIVE] FULL JOIN
 
-In the case of a RIGHT EXCLUSIVE JOIN you are essentially trying to query out the unique values that exist in the right table. In other words, you don't want any of the left table's values, you solely want the right table's values.
+In the case of a FULL EXCLUSIVE JOIN you are essentially trying to query out the values of Left Table and Right Table but not including the common value left and right table.
 
 ## SYNTAX
 
 ```sql
 SELECT column_name(s)
 FROM table1
-RIGHT JOIN table2
+FULL JOIN table2
 ON table1.id = table2.id;
 WHERE table2.id IS NULL OR table1.id IS NULL 
 ```
