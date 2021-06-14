@@ -135,6 +135,6 @@ No table will be there because no value is able to extract as all the CUSTOMER_I
 <br />
 
 
-[HOME](README.MD)
+[HOME](README.md)
 
 [< PREVIOUS](leftjoin.md) || [NEXT >](fulljoin.md)
