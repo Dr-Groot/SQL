@@ -134,11 +134,32 @@ WHERE ORDERS.CUSTOMER_ID IS NULL OR CUSTOMERS.ID IS NULL
 
 **RESULT TABLE**
 
-No table will be there because no value is able to extract as all the CUSTOMER_ID are common to ID.
+| ID | NAME     | AMOUNT | DATE                |
+| -- | -------- | ------ | ------------------- |
+|  1 | Ramesh   |   NULL | NULL                |
+|  5 | Hardik   |   NULL | NULL                |
+|  6 | Komal    |   NULL | NULL                |
+|  7 | Muffy    |   NULL | NULL                |
 
 <br />
 
+If your Database does not support FULL JOIN (MySQL does not support FULL JOIN), then you can use UNION ALL clause to combine these two JOINS as shown below.
+
+```sql
+   SELECT  ID, NAME, AMOUNT, DATE
+   FROM CUSTOMERS
+   LEFT JOIN ORDERS
+   ON CUSTOMERS.ID = ORDERS.CUSTOMER_ID
+UNION ALL
+   SELECT  ID, NAME, AMOUNT, DATE
+   FROM CUSTOMERS
+   RIGHT JOIN ORDERS
+   ON CUSTOMERS.ID = ORDERS.CUSTOMER_ID
+
+```
+
+<br />
 
 [HOME](README.MD)
 
-[< PREVIOUS](rightjoin.md) || [NEXT >](join.md)
+[< PREVIOUS](rightjoin.md) || [NEXT >](selfjoin.md)
