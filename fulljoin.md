@@ -143,7 +143,7 @@ WHERE ORDERS.CUSTOMER_ID IS NULL OR CUSTOMERS.ID IS NULL
 
 <br />
 
-If your Database does not support FULL JOIN (MySQL does not support FULL JOIN), then you can use UNION ALL clause to combine these two JOINS as shown below.
+**NOTE :** If your Database does not support FULL JOIN (MySQL does not support FULL JOIN), then you can use UNION ALL clause to combine these two JOINS as shown below.
 
 ```sql
    SELECT  ID, NAME, AMOUNT, DATE
