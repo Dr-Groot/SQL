@@ -160,6 +160,6 @@ UNION ALL
 
 <br />
 
-[HOME](README.MD)
+[HOME](README.md)
 
 [< PREVIOUS](rightjoin.md) || [NEXT >](selfjoin.md)
