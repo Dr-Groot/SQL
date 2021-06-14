@@ -146,6 +146,6 @@ WHERE ORDERS.CUSTOMER_ID IS NULL
 
 
 
-[HOME](README.MD)
+[HOME](README.md)
 
 [< PREVIOUS](innerjoin.md) || [NEXT >](rightjoin.md)
