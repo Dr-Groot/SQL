@@ -32,7 +32,7 @@
 + [RIGHT JOIN](rightjoin.md)
 + [FULL JOIN](fulljoin.md)
 + [SELF JOIN](selfjoin.md)
-+ 
++ [CARTESIAN JOIN](cartesianjoin.md)
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
