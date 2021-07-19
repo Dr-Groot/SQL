@@ -16,3 +16,7 @@ CROSS JOIN table2;
 ![image](https://user-images.githubusercontent.com/63160825/126171053-26c7cae5-9b2e-43ce-9ae0-6d1815145bfd.png)
 
 > Cartesian Join is also known as Cross Join.
+
+[HOME](README.md)
+
+[< PREVIOUS](selfjoin.md) || [NEXT >](union.md)
