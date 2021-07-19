@@ -16,3 +16,8 @@ WHERE condition;
 
 Here T1 and T2 are the different table aliases for the same table.
 
+![image](https://user-images.githubusercontent.com/63160825/126169455-9e45e3b2-ad00-4c0c-80e4-bb49b223ca7d.png)
+
+[HOME](README.md)
+
+[< PREVIOUS](fulljoin.md) || [NEXT >](cartesianjoin.md)
