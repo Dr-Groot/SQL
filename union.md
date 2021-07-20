@@ -36,7 +36,7 @@ SELECT column_name(s) FROM table2;
 
 Consider Table 1 as **Customers** having columns CustomerID, CustomerName, Address, City, PostalCode, Country.
 
-And Consider Table 2 as **Suppliers**  having columns SupplierID, SupplierName, ContactName, Address, City, PostalCode, Country.
+And Consider Table 2 as **Suppliers**  having columns SupplierID, SupplierName, Address, City, PostalCode, Country.
 
 Now applying:
 
