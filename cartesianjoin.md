@@ -44,8 +44,57 @@ Considerthe Orders as Table 2:
 Applying **Cartesian Join** on following tables:
 
 ```sql
+SELECT ID, NAME, AMOUNT, DATE
+FROM CUSTOMERS, ORDERS;
+```
 
+OR YOU CAN GO WITH
 
+```sql
+SELECT ID, NAME, AMOUNT, DATE
+FROM CUSTOMERS CROSS JOIN ORDERS;
+```
+
+</br>
+
+## RESULT:
+
+| ID | NAME     | AMOUNT | DATE                |
+| -- | -------- | ------ | ------------------- |
+|  1 | Ramesh   |   3000 | 2009-10-08 00:00:00 |
+|  1 | Ramesh   |   1500 | 2009-10-08 00:00:00 |
+|  1 | Ramesh   |   1560 | 2009-11-20 00:00:00 |
+|  1 | Ramesh   |   2060 | 2008-05-20 00:00:00 |
+|  2 | Khilan   |   3000 | 2009-10-08 00:00:00 |
+|  2 | Khilan   |   1500 | 2009-10-08 00:00:00 |
+|  2 | Khilan   |   1560 | 2009-11-20 00:00:00 |
+|  2 | Khilan   |   2060 | 2008-05-20 00:00:00 |
+|  3 | kaushik  |   3000 | 2009-10-08 00:00:00 |
+|  3 | kaushik  |   1500 | 2009-10-08 00:00:00 |
+|  3 | kaushik  |   1560 | 2009-11-20 00:00:00 |
+|  3 | kaushik  |   2060 | 2008-05-20 00:00:00 |
+|  4 | Chaitali |   3000 | 2009-10-08 00:00:00 |
+|  4 | Chaitali |   1500 | 2009-10-08 00:00:00 |
+|  4 | Chaitali |   1560 | 2009-11-20 00:00:00 |
+|  4 | Chaitali |   2060 | 2008-05-20 00:00:00 |
+|  5 | Hardik   |   3000 | 2009-10-08 00:00:00 |
+|  5 | Hardik   |   1500 | 2009-10-08 00:00:00 |
+|  5 | Hardik   |   1560 | 2009-11-20 00:00:00 |
+|  5 | Hardik   |   2060 | 2008-05-20 00:00:00 |
+|  6 | Komal    |   3000 | 2009-10-08 00:00:00 |
+|  6 | Komal    |   1500 | 2009-10-08 00:00:00 |
+|  6 | Komal    |   1560 | 2009-11-20 00:00:00 |
+|  6 | Komal    |   2060 | 2008-05-20 00:00:00 |
+|  7 | Muffy    |   3000 | 2009-10-08 00:00:00 |
+|  7 | Muffy    |   1500 | 2009-10-08 00:00:00 |
+|  7 | Muffy    |   1560 | 2009-11-20 00:00:00 |
+|  7 | Muffy    |   2060 | 2008-05-20 00:00:00 |
+
+</br>
+
+## USE OF CARTESIAN JOIN ?
+
+The CROSS JOIN is used to generate a paired combination of each row of the first table with each row of the second table.
 
 
 [HOME](README.md)
