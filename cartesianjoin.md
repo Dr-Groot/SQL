@@ -19,6 +19,8 @@ CROSS JOIN table2;
 
 ## EXAMPLE 
 
+</br>
+
 Consider the following table Customers as Table 1:
 
 | ID | NAME     | AGE | ADDRESS   | SALARY   |
@@ -40,6 +42,8 @@ Considerthe Orders as Table 2:
 | 100 | 2009-10-08 00:00:00 |           3 |   1500 |
 | 101 | 2009-11-20 00:00:00 |           2 |   1560 |
 | 103 | 2008-05-20 00:00:00 |           4 |   2060 |
+
+</br>
 
 Applying **Cartesian Join** on following tables:
 
