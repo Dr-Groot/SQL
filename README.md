@@ -35,6 +35,7 @@
 + [CARTESIAN JOIN](cartesianjoin.md)
 + [UNION](union.md)
 + [GROUP BY](groupby.md)
++ [HAVING](having.md)
 
 
 ## PRACTICE DATASET
