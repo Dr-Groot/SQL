@@ -19,7 +19,7 @@ CROSS JOIN table2;
 
 ## EXAMPLE 
 
-</br>
+<br />
 
 Consider the following table Customers as Table 1:
 
@@ -43,7 +43,7 @@ Considerthe Orders as Table 2:
 | 101 | 2009-11-20 00:00:00 |           2 |   1560 |
 | 103 | 2008-05-20 00:00:00 |           4 |   2060 |
 
-</br>
+<br />
 
 Applying **Cartesian Join** on following tables:
 
@@ -59,7 +59,7 @@ SELECT ID, NAME, AMOUNT, DATE
 FROM CUSTOMERS CROSS JOIN ORDERS;
 ```
 
-</br>
+<br />
 
 ## RESULT:
 
@@ -94,7 +94,7 @@ FROM CUSTOMERS CROSS JOIN ORDERS;
 |  7 | Muffy    |   1560 | 2009-11-20 00:00:00 |
 |  7 | Muffy    |   2060 | 2008-05-20 00:00:00 |
 
-</br>
+<br />
 
 ## USE OF CARTESIAN JOIN ?
 
