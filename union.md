@@ -8,7 +8,7 @@ The UNION operator is used to combine the result-set of two or more SELECT state
 + The columns must also have similar data types
 + The columns in every SELECT statement must also be in the same order
 
-</br>
+<br />
 
 ## UNION SYNTAX
 
@@ -18,7 +18,7 @@ UNION
 SELECT column_name(s) FROM table2;
 ```
 
-<br/>
+<br />
 
 ## UNION ALL SYNTAX
 
@@ -30,7 +30,7 @@ UNION ALL
 SELECT column_name(s) FROM table2;
 ```
 
-</br>
+<br />
 
 ## EXAMPLE
 
@@ -75,7 +75,7 @@ WHERE Country='Germany'
 ORDER BY City;
 ```
 
-</br>
+<br />
 
 [HOME](README.md)
 
