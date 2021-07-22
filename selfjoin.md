@@ -21,7 +21,7 @@ Here T1 and T2 are the different table aliases for the same table.
 
 ## EXAMPLE
 
-</br>
+<br />
 
 Consider the following Customers table.
 
@@ -35,7 +35,7 @@ Consider the following Customers table.
 |  6 | Komal    |  22 | MP        |  4500.00 |
 |  7 | Muffy    |  24 | Indore    | 10000.00 |
 
-</br>
+<br />
 
 Lets apply **SELF JOIN** as:
 
@@ -45,7 +45,7 @@ FROM CUSTOMERS a, CUSTOMERS b
 WHERE a.SALARY < b.SALARY
 ```
 
-</br>
+<br />
 
 **RESULT:**
 
@@ -72,13 +72,13 @@ WHERE a.SALARY < b.SALARY
 |  5 | Muffy    | 8500.00 |
 |  6 | Muffy    | 4500.00 |
 
-</br>
+<br />
 
 ## WHY SELF JOIN ?
 
 A self join allows you to join a table to itself. It is useful for querying hierarchical data or comparing rows within the same table.
 
-</br>
+<br />
 
 [HOME](README.md)
 
