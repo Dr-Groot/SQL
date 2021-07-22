@@ -34,6 +34,8 @@
 + [SELF JOIN](selfjoin.md)
 + [CARTESIAN JOIN](cartesianjoin.md)
 + [UNION](union.md)
++ [GROUP BY](groupby.md)
+
 
 ## PRACTICE DATASET
 + [Customer Complaint](CustomerComplaint.csv)
